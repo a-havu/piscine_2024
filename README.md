@@ -1,4 +1,4 @@
-This is the work I did in my 42 Piscine at Hive Helsinki in July 2024.
+This is the work I did in my Piscine at Hive Helsinki in July 2024.
 
 Piscine is a high-intensity, 28-day coding bootcamp that is an important part of the selection process to become a student at a 42 school.
 
